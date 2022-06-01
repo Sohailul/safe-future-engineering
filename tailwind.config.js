@@ -9,7 +9,7 @@ module.exports = {
     themes: [
       {
         sfebdtheme: {
-          primary: "#FF4F00",
+          primary: "#FFBF29",
           secondary: "#fdba74",
           accent: "#3A4256",
           neutral: "#3d4451",

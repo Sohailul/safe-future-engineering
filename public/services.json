@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Engineering Design and Drawing",
+        "description": "As a prominent consultancy company, SFE has provided design and drawing Services since 2015. We are a one-stop solution provider for specialized electrical and Electronics engineering design and drafting services. We provide electrical design and removal services in Bangladesh through our qualified engineering team.",
+        "img": "https://live.staticflickr.com/65535/52116362473_4d5fc882d5_k.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Electrical Consultancy",
+        "description": "SFE is a top construction consultant in Chittagong having a dedicated construction division with specialised personnel and procedures to manage and supervise construction activities.Our teams work with the skill to reduce technical risks, prevent construction errors, control budgets and meet project deadlines.",
+        "img": "https://live.staticflickr.com/65535/52116362493_39a6d2531d_c.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Electrical Construction & Supervision",
+        "description": "SFE is committed to delivering high-quality supervision services. Our quality management system ensures that we meet technical, statutory, budget and programme requirements. To maintain quality control, we regularly audit site teams to ensure that our procedures are followed. ",
+        "img": "https://live.staticflickr.com/65535/52115297132_a75c349b3b_c.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Electrical Wiring",
+        "description": "Electrical wiring entails installing electrical cabling and affiliated devices, including circuit boards, switches, sockets, outlets, ceiling fans, and lighting fixtures.",
+        "img": "https://live.staticflickr.com/65535/52116325621_5f50831118_k.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Residential wiring",
+        "description": "Residential wiring is primarily designed with safety in mind. It is always covered with sheath installation that is meant to protect residents from electrical shocks.",
+        "img": "https://live.staticflickr.com/65535/52116325636_0dc6ba6e18_c.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Commercial Wiring",
+        "description": "Commercial wiring also has more substantial insulation to protect the wires from corrosive substances. Sometimes unique outlets are installed to protect and assist sensitive or high-voltage equipment.",
+        "img": "https://live.staticflickr.com/65535/52116365443_82d6a6ffeb_c.jpg"
+    }
+]

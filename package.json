@@ -1,5 +1,6 @@
 {
   "name": "sfebd",
+  "homepage":"https://sfebd.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

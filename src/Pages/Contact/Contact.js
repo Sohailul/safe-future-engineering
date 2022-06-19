@@ -4,6 +4,7 @@ import { FaFacebookSquare, FaStaylinked } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import { GoLocation } from "react-icons/go";
 import { BsFillTelephoneFill } from "react-icons/bs";
+import { Link } from "react-router-dom";
 
 const Contact = () => {
   return (
@@ -17,7 +18,9 @@ const Contact = () => {
                 Get In Touch for free consultation and get best quotes. Quality
                 Service || 24/7 Support
               </p>
-              <button className="btn btn-primary">Contact Us</button>
+              <a href="https://m.me/sfeelectrical2011" target="_blank" rel="noreferrer">
+                <button className="btn btn-primary">Contact Us</button>
+              </a>
             </div>
           </div>
         </div>
@@ -40,7 +43,7 @@ const Contact = () => {
           <div class="card-body items-center text-center">
             <h1 className="text-xl font-bold">Phone</h1>
             <p>+8801819-090965</p>
-            <p>+8801979931084</p>
+            <p>+8801979-931084</p>
           </div>
         </div>
         <div class="card max-w bg-base-100 shadow-xl pt-5">
